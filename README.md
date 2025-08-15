@@ -32,7 +32,7 @@ Includes automation utilities, monitoring scripts, and data-handling helpers.
 ---
 
 ## 📬 Contact Me
-[![Email](https://img.shields.io/badge/Email-david.krisna%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidkrisna69@gmail.com)
+[![Email](https://img.shields.io/badge/Email-davidkrisna%4069.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidkrisna69@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkrisna-)
 [![GitHub](https://img.shields.io/badge/GitHub-Quaddy09-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Quaddy09)
 
